@@ -1,0 +1,9 @@
+Package: MyPackage
+Title: A Test IQSS Package
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: This is a longer description of the package.
+Depends: R (>= 3.3.3)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
